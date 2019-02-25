@@ -1,0 +1,63 @@
+<repositories>
+
+	<repository>
+      <name>Incursion</name>
+      <username>nixgates</username>
+      <description>Incursion, Watch Nixtoons</description>
+	</repository>
+   
+	<repository>
+      <name>Blamo</name>
+      <username>mrblamo420</username>
+      <description>Death Streams, Neptune Rising, Placenta, Aragon Live, Wraith, Chappa'ai</description>
+	</repository>
+
+	<repository>
+	      <name>FrenchDJ</name>
+      		<username>frenchdj</username>
+      		<description>Documented.HD, Alive.HD</description>
+	</repository>
+
+	<repository>
+	      <name>Kodi Bae</name>
+      		<username>kodibae</username>
+      		<description>cCloud, SportsDevil, Icefilms, 1Channel, Exodus</description>
+	</repository>
+
+	<repository>
+	      <name>Stream Army</name>
+      		<username>nemesis668</username>
+      		<description>Nemesis, Entertainment Time</description>
+	</repository>
+
+	<repository>
+	      <name>Rockcrusher</name>
+      		<username>rockcrusher01</username>
+      		<description>Vortex, Caught on Cam, Grit, Brain Drain, FightTube</description>
+	</repository>
+
+	<repository>
+	      <name>Maverick</name>
+      		<username>Maverick53</username>
+      		<description>Copy and Paste, At the Flix, Skynet, Maverick TV</description>
+	</repository>
+	
+	<repository>
+	      <name>Pure</name>
+      		<username>PureRepo1</username>
+      		<description>SportsMatrix, Kids Planet, Shows Motion</description>
+	</repository>
+
+	<repository>
+	      <name>Goliath</name>
+      		<username>Goliath-Evolve</username>
+      		<description>Picasso, Cartoons8</description>
+	</repository>
+
+	<repository>
+	      <name>TV ADDONS</name>
+      		<username>tvaddonsco</username>
+      		<description>Free Live TV, USTVCatchup, USTVNow</description>
+	</repository>
+
+</repositories>
