@@ -7,17 +7,17 @@
 	
 	<configs dir="configs">
         <config>
-            <source>addons</source>
+            <source>cp -a folder/addons</source>
             <destination>special://userdata</source>
         </config>
 		
 		<config>
-            <source>media</source>
+            <source>cp -a folder/media</source>
             <destination>special://userdata</source>
         </config>
 
 		<config>
-            <source>userdata</source>
+            <source>cp -a folder/userdata</source>
             <destination>special://userdata</source>
         </config>		
     </configs>
