@@ -7,17 +7,17 @@
 	
 	<configs dir="configs">
         <config>
-            <source>YakRepo/configs/addons</source>
+            <source>addons</source>
             <destination>special://userdata</source>
         </config>
 		
 		<config>
-            <source>YakRepo/configs/media</source>
+            <source>media</source>
             <destination>special://userdata</source>
         </config>
 
 		<config>
-            <source>YakRepo/configs/userdata</source>
+            <source>userdata</source>
             <destination>special://userdata</source>
         </config>		
     </configs>
