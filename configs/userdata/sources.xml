@@ -1,0 +1,30 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>Movies</name>
+            <path pathversion="1">C:\Users\Hp P7-1003w\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.exodus\Movies\</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TVShows</name>
+            <path pathversion="1">C:\Users\Hp P7-1003w\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.exodus\TVShows\</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

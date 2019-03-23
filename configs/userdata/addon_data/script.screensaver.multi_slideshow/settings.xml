@@ -1,0 +1,17 @@
+<settings version="2">
+    <setting id="appletvlike_concurrency">1</setting>
+    <setting id="appletvlike_speed">1</setting>
+    <setting id="gridswitch_random">true</setting>
+    <setting id="gridswitch_rows_columns">4</setting>
+    <setting id="gridswitch_wait">1000</setting>
+    <setting id="image_path" default="true"></setting>
+    <setting id="mode">5</setting>
+    <setting id="prop" default="true">0</setting>
+    <setting id="random_order">true</setting>
+    <setting id="randomzoom_effect">5000</setting>
+    <setting id="randomzoom_wait">2000</setting>
+    <setting id="recursive">true</setting>
+    <setting id="source" default="true">0</setting>
+    <setting id="starwars_speed">1</setting>
+    <setting id="tabledrop_wait">1500</setting>
+</settings>

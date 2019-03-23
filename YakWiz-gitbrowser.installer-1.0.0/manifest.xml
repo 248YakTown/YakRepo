@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    (248)Yak-Town Batch Installer Manifest File
+    
+-->
+<installer>
+    <!--
+        Addons is a required container for a list of addon username and addon_id pairs.
+        Each container requires both pairs.
+    -->
+    <addons>
+        <addon>
+            <addon_id>plugin.video.exodus</addon_id>
+            <username>kodibae</username>
+        </addon>
+		<addon>
+            <addon_id>plugin.video.toonmania2</addon_id>
+            <username>kodibae</username>
+        </addon>
+		
+    </addons>
+	
+	<configs dir="configs">
+        <config>
+            <source>addons</source>
+            <destination>special://userdata/</source>
+        </config>
+		
+		<config>
+            <source>media</source>
+            <destination>special://userdata/</source>
+        </config>
+
+		<config>
+            <source>userdata</source>
+            <destination>special://userdata/</source>
+        </config>		
+    </configs>
+	
+</installer>
