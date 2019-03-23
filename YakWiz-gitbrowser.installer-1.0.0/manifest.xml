@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    (248)Yak-Town Batch Installer Manifest File
+    
+-->
+<installer>
+	
+	<configs dir="configs">
+        <config>
+            <source>YakRepo/configs/addons</source>
+            <destination>special://userdata</source>
+        </config>
+		
+		<config>
+            <source>YakRepo/configs/media</source>
+            <destination>special://userdata</source>
+        </config>
+
+		<config>
+            <source>YakRepo/configs/userdata</source>
+            <destination>special://userdata</source>
+        </config>		
+    </configs>
+	
+</installer>
