@@ -4,22 +4,18 @@
     
 -->
 <installer>
-	
 	<configs dir="configs">
         <config>
             <source>dir="addons"</source>
             <destination>special://userdata</source>
         </config>
-		
 		<config>
             <source>dir="media"</source>
             <destination>special://userdata</source>
         </config>
-
 		<config>
             <source>dir="userdata"</source>
             <destination>special://userdata</source>
         </config>		
     </configs>
-	
 </installer>
